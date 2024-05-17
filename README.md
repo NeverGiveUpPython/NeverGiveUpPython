@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeverGiveUpPython
-- 👀 I’m interested in learning Python coding
+- 👀 I’m interested in learning coding
 - 🌱 I’m currently learning at home
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me? E-mail: dmitromatvienko8@gmail.com
