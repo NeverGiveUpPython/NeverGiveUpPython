@@ -2,9 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning at home
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me? E-mail: dmitromatvienko8@gmail.com
-
-  Have good day!
+- 📫 How to reach me? E-mail: overlordua16@gmail.com
 
 <!---
 NeverGiveUpPython/NeverGiveUpPython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
