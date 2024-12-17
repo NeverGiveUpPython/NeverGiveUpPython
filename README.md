@@ -1,3 +1,5 @@
+My skills: SQL, Python, HTML, CSS and now learning Javascript
+
 - 👋 Hi, I’m @NeverGiveUpPython
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning at home
